@@ -1,0 +1,17 @@
+nav ul {
+    list-style: none;
+}
+nav ul{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+nav ul li{
+    text-align: center;
+}
+nav ul li a{
+text-decoration: none;
+color: rgba(0, 0, 0, 0.867);
+}
+nav ul li a:hover{
+    text-decoration:underline  
+}

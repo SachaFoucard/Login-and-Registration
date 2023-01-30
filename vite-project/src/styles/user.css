@@ -1,0 +1,13 @@
+table,
+th,
+tr,
+td {
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;   
+}
+
+.list {
+    text-align: center;
+}
