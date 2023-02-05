@@ -1,7 +1,6 @@
 # Login-and-Registration
 
-
-## API Reference
+https://login-registration-sachafoucard.netlify.app/
 
 #### Get all data 📝
 
